@@ -3,7 +3,8 @@
 }
 header{
   background-image:url("https://media.vanityfair.com/photos/5a332ad62d48cc419d393ee0/master/w_690,c_limit/kylo-rey-fight.gif");
-  padding: 100px;
+  background-size: 600px 240px;
+  padding: 72px;
 }
 confmenu
 {
