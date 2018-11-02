@@ -23,6 +23,9 @@
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102133146.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181102133146.3"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -325,6 +328,23 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181102133146.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102133146.3">#電腦輔助設計在教什麼?
+創造力
+表達力
+以及
+
+協同力
+
 </t>
 </tnodes>
 </leo_file>
