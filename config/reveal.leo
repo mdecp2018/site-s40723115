@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 <v t="leo.20181102133146.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181102133146.3"><vh>投影片快捷鍵</vh></v>
@@ -354,6 +354,6 @@ make.start()
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20181108232515.1">期中希望穩過</t>
+<t tx="leo.20181108232515.1">期中穩過</t>
 </tnodes>
 </leo_file>
