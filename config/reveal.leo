@@ -31,7 +31,7 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181108232508.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181109102109.1"><vh>week</vh>
+<v t="leo.20181109102109.1" a="E"><vh>week</vh>
 <v t="leo.20181109102109.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20181109102216.1" a="E"><vh>week</vh>
@@ -390,7 +390,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102109.2">week1</t>
+<t tx="leo.20181109102109.2">week1
+
+</t>
 <t tx="leo.20181109102216.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -402,7 +404,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102216.2">week2</t>
+<t tx="leo.20181109102216.2">week2
+
+</t>
 <t tx="leo.20181109102225.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -414,7 +418,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102225.2">week3</t>
+<t tx="leo.20181109102225.2">week3
+
+</t>
 <t tx="leo.20181109102228.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -426,7 +432,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102228.2">week4</t>
+<t tx="leo.20181109102228.2">week4
+
+</t>
 <t tx="leo.20181109102232.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -438,7 +446,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102232.2">week5</t>
+<t tx="leo.20181109102232.2">week5
+
+</t>
 <t tx="leo.20181109102236.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -450,7 +460,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102236.2">week5</t>
+<t tx="leo.20181109102236.2">week6
+
+</t>
 <t tx="leo.20181109102240.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -462,7 +474,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102240.2">week6</t>
+<t tx="leo.20181109102240.2">week7
+
+</t>
 <t tx="leo.20181109102245.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -474,6 +488,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109102245.2">week7</t>
+<t tx="leo.20181109102245.2">week8
+
+</t>
 </tnodes>
 </leo_file>
