@@ -392,7 +392,7 @@ make.start()
 </t>
 <t tx="leo.20181109102109.2">week1
 
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p_hMfK4yKEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181109102216.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -406,7 +406,7 @@ make.start()
 </t>
 <t tx="leo.20181109102216.2">week2
 
-</t>
+&lt;iframe width="1280" height="742" src="https://www.youtube.com/embed/KPU3_UBXeqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181109102225.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -420,7 +420,7 @@ make.start()
 </t>
 <t tx="leo.20181109102225.2">week3
 
-</t>
+&lt;iframe width="1280" height="742" src="https://www.youtube.com/embed/LEhrFwv4458" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181109102228.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -434,7 +434,7 @@ make.start()
 </t>
 <t tx="leo.20181109102228.2">week4
 
-</t>
+&lt;iframe width="1280" height="741" src="https://www.youtube.com/embed/PVRsOtiDHYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181109102232.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -448,7 +448,7 @@ make.start()
 </t>
 <t tx="leo.20181109102232.2">week5
 
-</t>
+&lt;iframe width="1280" height="742" src="https://www.youtube.com/embed/yycW2lQR0hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181109102236.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -478,7 +478,7 @@ make.start()
 </t>
 <t tx="leo.20181109102240.2">week7
 
-</t>
+&lt;iframe width="1280" height="742" src="https://www.youtube.com/embed/Oks767f6m8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181109102245.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
