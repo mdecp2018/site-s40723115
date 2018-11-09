@@ -31,16 +31,32 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181108232508.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181108232515.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101409.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101428.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101433.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101436.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101438.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101441.1"><vh>newHeadline</vh></v>
-<v t="leo.20181109101443.1"><vh>newHeadline</vh></v>
+<v t="leo.20181109102109.1"><vh>week</vh>
+<v t="leo.20181109102109.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20181109102216.1" a="E"><vh>week</vh>
+<v t="leo.20181109102216.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109102225.1" a="E"><vh>week</vh>
+<v t="leo.20181109102225.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109102228.1" a="E"><vh>week</vh>
+<v t="leo.20181109102228.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109102232.1" a="E"><vh>week</vh>
+<v t="leo.20181109102232.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109102236.1" a="E"><vh>week</vh>
+<v t="leo.20181109102236.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109102240.1" a="E"><vh>week</vh>
+<v t="leo.20181109102240.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109102245.1" a="E"><vh>week</vh>
+<v t="leo.20181109102245.2"><vh>引用程式碼</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -363,28 +379,101 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181108232515.1">week1
+<t tx="leo.20181109102109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-</t>
-<t tx="leo.20181109101409.1">week2
 
-</t>
-<t tx="leo.20181109101428.1">week3
 
+						
 </t>
-<t tx="leo.20181109101433.1">week4
+<t tx="leo.20181109102109.2">week1</t>
+<t tx="leo.20181109102216.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-</t>
-<t tx="leo.20181109101436.1">week5
 
-</t>
-<t tx="leo.20181109101438.1">week6
-</t>
-<t tx="leo.20181109101441.1">week7
 
+						
 </t>
-<t tx="leo.20181109101443.1">week8
+<t tx="leo.20181109102216.2">week2</t>
+<t tx="leo.20181109102225.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+
+						
 </t>
+<t tx="leo.20181109102225.2">week3</t>
+<t tx="leo.20181109102228.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109102228.2">week4</t>
+<t tx="leo.20181109102232.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109102232.2">week5</t>
+<t tx="leo.20181109102236.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109102236.2">week5</t>
+<t tx="leo.20181109102240.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109102240.2">week6</t>
+<t tx="leo.20181109102245.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109102245.2">week7</t>
 </tnodes>
 </leo_file>
