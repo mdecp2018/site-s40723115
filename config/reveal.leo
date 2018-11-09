@@ -462,6 +462,8 @@ make.start()
 </t>
 <t tx="leo.20181109102236.2">week6
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PVRsOtiDHYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="leo.20181109102240.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
